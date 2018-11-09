@@ -151,7 +151,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/PanJiaChen/vue-element-admin.git
+git clone https://github.com/houbaojian/vue-element-admin-hbj.git
 
 # 安装依赖
 npm install
